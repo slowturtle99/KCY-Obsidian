@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "cacf234e19d81ccf",
+    "type": "split",
+    "children": [
+      {
+        "id": "bca7a05a55c11c1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da82cc5efdea5c06",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "+ Main.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f133a44bad04b075",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work/+ Work.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20f2d62136a2ed94",
+    "type": "split",
+    "children": [
+      {
+        "id": "32fc8519d14c3698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7aef51418b19f6d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11ceac480443249f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4672a128ec45b06",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "50e94baf31c52984",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fc75dc302ab70cb",
+        "type": "tabs",
+        "dimension": 34.351851851851855,
+        "children": [
+          {
+            "id": "326bc4bd9eb31503",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0a562bd29d400a30",
+        "type": "tabs",
+        "dimension": 65.64814814814815,
+        "children": [
+          {
+            "id": "14abfb4eda649e48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "+ Main.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e06c452a899bd967",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "+ Main.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2fea4fcf65f66b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fe3c68a61fb3a17a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "+ Main.md"
+              }
+            }
+          },
+          {
+            "id": "589762dcab23e149",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 400.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "da82cc5efdea5c06",
+  "lastOpenFiles": [
+    "Work/+ Work.md",
+    "README.md",
+    "ETC/Figures/Pasted image 20240215142825.png",
+    "+ Main.md",
+    "Archive/+ Archive.md",
+    "ETC/Figures/Pasted image 20240215140738.png",
+    "Work/Daily Notes/2024-02-15 Work.md",
+    "Daily Notes/2024-02-15.md",
+    "ETC/Figures/Pasted image 20240215140454.png",
+    "Memo/Cooking/Recipes/Sakedon.md",
+    "Memo/Cooking/+ Recipes.md",
+    "Memo/Cooking/+ Tips & How To.md",
+    "Plan/World Domination Plan.md",
+    "Plan/+ To Do.md",
+    "Plan/+ Plans.md",
+    "ETC/Figures/Pasted image 20240215140307.png",
+    "Work/Project A/Project A.md",
+    "Study/+ Study.md",
+    "ETC/Figures/IMG_0082.jpg",
+    "ETC/Figures/IMG_0083.jpg",
+    "ETC/Figures/IMG_0088.jpg",
+    "ETC/Figures/IMG_0093.jpg",
+    "ETC/Figures/IMG_0102.jpg",
+    "ETC/Figures/IMG_0073.jpg",
+    "README.md.md",
+    "ETC/Templates/Note Template.md",
+    "ETC/Templates/Daily Template.md",
+    "ETC/Templates/Recipe Template.md",
+    "Memo/Cooking/Recipes/Beurre Blanc Sauce.md",
+    "Plan/2024 Christmas Plan.md",
+    "Projects/+ Projects.md",
+    "Study/Super Point Paper.md",
+    "Study/Super Point.md",
+    "Study/Softmax.md",
+    "Plan/+ Shopping.md",
+    "ETC/Papers/SuperPoint.pdf",
+    "Archive/Plan",
+    "Work/Project A",
+    "ETC/Papers/universal-correspondence-network.pdf",
+    "ETC/Papers/1811.04748.pdf",
+    "ETC/Papers/se2clam.pdf",
+    "ETC/Papers/mobile-aloha.pdf",
+    "ETC/Papers",
+    "Study/Robotics",
+    "Memo/ETC",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Temp/Main Canvas.canvas",
+    "Temp/무제 파일.canvas"
+  ]
+}
